@@ -58,9 +58,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 🖼️ Screenshots
 
-Here’s how the program looks when running in the terminal:
-
-Chat Demo
-
-Place your screenshots inside a folder named screenshots/ in the project directory.
-You can add more screenshots and reference them like this:
+https://github.com/somyadeep112/Chat-Message-History-Manager/blob/355a9aba285ff0ea2251cda9654ec397ff331ce3/output.pdf
